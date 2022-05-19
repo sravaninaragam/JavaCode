@@ -1,4 +1,4 @@
-<h1> hello devops<h1>
+<h1> hello devops minfy<h1>
   <script> let name =prompt('enter your name')
     let name1=name.toUpperCase()
     
