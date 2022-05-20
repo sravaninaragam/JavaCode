@@ -1,7 +1,7 @@
-<h1> hello devops minfy team<h1>
+<h1> good morning devops minfy team<h1>
 <h1>This is a Heading</h1>
 <p>This is a paragraph.</p>
-  <script> let name =prompt('enter your name')
+  <script> let name =prompt('Abhinav')
     let name1=name.toUpperCase()
     
     document.write(name1)
